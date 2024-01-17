@@ -1,0 +1,35 @@
+body {
+    background-color: #0011ff;
+   }
+               .img4{
+                position: absolute;
+                top: 8px;
+                right: 16px;
+               }
+               .img3{
+                    position: absolute;
+                    top: 8px;
+                    left: 16px;
+               }
+               .img2{
+                display: block;
+                margin:auto
+                
+               }
+               h1{
+                   font-family: cursive;
+                   color:cyan
+               }
+               img{
+                   width: 20%;
+               }
+               div{
+                   display: flex;
+                   justify-content: space-around;
+                   align-items: normal;
+                   height: 30vh;
+               }
+               audio{
+                   display: block;
+                   margin: auto;
+               }
